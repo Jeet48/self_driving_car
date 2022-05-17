@@ -15,3 +15,7 @@
 7)   Visualizing neural networks
 8)   Optimizing neural networks
 9)   Fine-tuning
+
+
+https://user-images.githubusercontent.com/91423597/168850681-30fafc95-828a-4413-ab18-b53b214e6b1e.mp4
+
